@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 111
 
 Git ÕæÊÇÂé·³
+Git has a mutable index called stage.
